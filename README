@@ -1,0 +1,6 @@
+WagnerFischerSwadesh is a free, open-source program by Dmitri Gusev.
+It calculates normalized Levenshtein distances I and II between Swadesh 
+lists using the Wagner-Fischer algorithm.
+Released on March 10, 2015, under 
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+ 
