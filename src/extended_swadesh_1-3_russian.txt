@@ -464,6 +464,7 @@ pinat'
 trjasti
 mazat'
 molot'
+zazhigat'
 pech'
 varit'
 pahat'
